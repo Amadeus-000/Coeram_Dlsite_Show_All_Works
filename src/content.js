@@ -3,7 +3,7 @@
  
    function clickNotPurchasedFilter() {
      // PC版とモバイル版の `a` タグを取得
-     const filterLinks = document.querySelectorAll("#hide_bought a, a#hide_bought");
+     const filterLinks = document.querySelectorAll("#hide_bought li.selected a, a#hide_bought.is-on");
  
      if (filterLinks.length > 0) {
        console.log(`見つかったボタン数: ${filterLinks.length}`);
