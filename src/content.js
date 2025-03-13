@@ -1,5 +1,5 @@
 (function () {
-   console.log("DLsite Auto Not Purchased Filter が実行されました");
+   console.log("DLsite Show All Works が実行されました");
  
    function clickNotPurchasedFilter() {
      // PC版とモバイル版の `a` タグを取得

@@ -2,7 +2,7 @@
    "manifest_version": 3,
    "name": "Coeram DLsite Show All Works",
    "version": "1.0",
-   "description": "DLsiteで「未購入作品のみ表示」を自動でオフにします",
+   "description": "DLsiteで「未購入作品のみ表示」のオプションを自動でオフにします",
    "icons": {
      "16": "icons/icon16.png",
      "48": "icons/icon48.png",
