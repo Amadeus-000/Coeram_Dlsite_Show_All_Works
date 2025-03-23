@@ -1,6 +1,4 @@
 (function () {
-   console.log("DLsite Show All Works が実行されました");
- 
    function clickNotPurchasedFilter() {
      // PC版とモバイル版の `a` タグを取得
      const filterLinks = document.querySelectorAll("#hide_bought li.selected a, a#hide_bought.is-on");
