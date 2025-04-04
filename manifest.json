@@ -10,7 +10,7 @@
    },
    "content_scripts": [
      {
-       "matches": ["*://www.dlsite.com/*"],
+       "matches": ["https://www.dlsite.com/*"],
        "js": ["src/content.js"],
        "run_at": "document_idle"
      }
